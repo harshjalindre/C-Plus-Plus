@@ -1,0 +1,2 @@
+Day 28: I have mastered File I/O in C++!
+Writing to the disk is easier than I thought.
